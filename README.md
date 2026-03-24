@@ -17,8 +17,8 @@ Clone the repository,
 open in Android Studio,
 Run the app.
 
-Usage
-enter time of day, then press 'get suggestion' to get the result.
+Usage:
+Enter time of day, then press 'get suggestion' to get the result.
 
 GitHub Usage
 GitHub was used for version control, allowing tracking of changes and maintaining a history of development.
