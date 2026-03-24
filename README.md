@@ -12,7 +12,7 @@ Android Studio
 XML
 GitHub
 
-Insrallation
+Installation
 Clone the repository
 open in Android Studio
 Run the app
