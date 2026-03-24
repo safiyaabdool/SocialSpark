@@ -1,21 +1,21 @@
 # SocialSpark
-Description
+Description:
 This is my Social Spark app designed to make initiating social interactions more simple. 
 
-Features
-Clean and simple UI
-Error handling 
+Features:
+Clean and simple UI,
+Error handling.
 
-Technologies used
-Kotlin
-Android Studio
-XML
-GitHub
+Technologies used:
+Kotlin,
+Android Studio,
+XML,
+GitHub.
 
-Installation
-Clone the repository
-open in Android Studio
-Run the app
+Installation:
+Clone the repository,
+open in Android Studio,
+Run the app.
 
 Usage
 enter time of day, then press 'get suggestion' to get the result.
